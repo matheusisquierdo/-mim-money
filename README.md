@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# MIM Money - Personal Finance Management
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created to explore basic React concepts. \
+Components, Properties, Styled Components, Context, and the main React Hooks.
 
 ## Available Scripts
 
